@@ -1,0 +1,16 @@
+{
+	"id": "ae26289d-1a3c-4647-b7f8-5f22ffc3fa7a",
+	"prevId": "00000000-0000-0000-0000-000000000000",
+	"version": "7",
+	"dialect": "postgresql",
+	"tables": {},
+	"enums": {},
+	"schemas": {
+		"sveltekit": "sveltekit"
+	},
+	"_meta": {
+		"columns": {},
+		"schemas": {},
+		"tables": {}
+	}
+}
