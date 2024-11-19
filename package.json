@@ -51,7 +51,7 @@
 		"postgres": "^3.4.4"
 	},
 	"lint-staged": {
-		"*.{js,ts,svelte,json,css,scss}": "prettier --write",
+		"*.{js,ts,svelte,json,css,scss,yml}": "prettier --write",
 		"*.{js,svelte,ts}": "eslint --fix"
 	}
 }
