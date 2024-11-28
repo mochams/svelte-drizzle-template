@@ -12,10 +12,10 @@
 		"lint": "prettier --check . && eslint .",
 		"test:unit": "vitest",
 		"test": "npm run test:unit -- --run",
+		"test:e2e": "cucumber-js",
 		"db:makemigrations": "drizzle-kit generate",
 		"db:migrate": "drizzle-kit migrate",
 		"db:studio": "drizzle-kit studio",
-		"uat": "cucumber-js",
 		"prepare": "husky"
 	},
 	"devDependencies": {
